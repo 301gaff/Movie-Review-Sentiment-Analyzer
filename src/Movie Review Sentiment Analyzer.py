@@ -1,6 +1,4 @@
-
 import re
-
 POSITIVE_WORDS = {"amazing", "awesome", "good", "great", "fantastic", "enjoyed", "love", "liked", "wonderful", "best"}
 NEGATIVE_WORDS = {"awful", "bad", "boring", "terrible", "worst", "hate", "disliked", "poor", "annoying", "disappointing"}
 
